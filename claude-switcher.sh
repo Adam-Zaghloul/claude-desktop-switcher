@@ -1,7 +1,7 @@
 #!/bin/bash
 # ─────────────────────────────────────────────────────────────
 # Claude Desktop Account Switcher
-# https://github.com/YOUR_USERNAME/claude-desktop-switcher
+# https://github.com/Adam-Zaghloul/claude-desktop-switcher
 #
 # Switches between multiple Claude Desktop accounts on Linux
 # without re-logging in. Each account gets its own isolated
